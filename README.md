@@ -1,2 +1,2 @@
 # JavaScript_MZ
-JS's first steps with Mirosław Zelent.
+JS's first steps, just excerices.
